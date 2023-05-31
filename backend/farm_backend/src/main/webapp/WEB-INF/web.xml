@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd"
+         version="5.0">
+    
+    <servlet>
+        <servlet-name>Login</servlet-name>
+        <servlet-class>com.farmacia.servlets.Login</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Login</servlet-name>
+        <url-pattern>/login</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ServeXips</servlet-name>
+        <servlet-class>com.farmacia.servlets.ServeXips</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServeXips</servlet-name>
+        <url-pattern>/ServeXips</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ServeMedicines</servlet-name>
+        <servlet-class>com.farmacia.servlets.ServeMedicines</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServeMedicines</servlet-name>
+        <url-pattern>/ServeMedicines</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ServePatients</servlet-name>
+        <servlet-class>com.farmacia.servlets.ServePatients</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServePatients</servlet-name>
+        <url-pattern>/ServePatients</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ServRel</servlet-name>
+        <servlet-class>com.farmacia.servlets.ServRel</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServRel</servlet-name>
+        <url-pattern>/ServRel</url-pattern>
+    </servlet-mapping>
+
+
+</web-app>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="farm_backend:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc3c96ce-cbdd-4891-b41b-83459e48d1e2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QKkMlQpyn30rhtjyqN3TU18hzP" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/mohammed/Music/farmacia/mariadb-java-client-3.1.4.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat: farm_backend" type="com.poratu.idea.plugins.tomcat" singleton="false" temporary="true">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="contextPath" value="/farm_backend" />
+      <option name="docBase" value="$PROJECT_DIR$/backend/farm_backend/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="extraClassPath" value="" />
+      <option name="port" value="3002" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.1.9" />
+          <option name="path" value="$PROJECT_DIR$/../../../../Program Files/Apache Software Foundation/Tomcat 10.1" />
+          <option name="version" value="10.1.9.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="farm_backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Smart Tomcat.Tomcat: farm_backend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc3c96ce-cbdd-4891-b41b-83459e48d1e2" name="Changes" comment="" />
+      <created>1685109614720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685109614720</updated>
+      <workItem from="1685109617195" duration="785000" />
+      <workItem from="1685110427281" duration="137000" />
+      <workItem from="1685110586968" duration="5614000" />
+      <workItem from="1685116807137" duration="5509000" />
+      <workItem from="1685133318427" duration="23000" />
+      <workItem from="1685133369919" duration="6765000" />
+      <workItem from="1685140429069" duration="7512000" />
+      <workItem from="1685223843700" duration="496000" />
+      <workItem from="1685224806346" duration="10370000" />
+      <workItem from="1685264493796" duration="4978000" />
+      <workItem from="1685270619270" duration="9559000" />
+      <workItem from="1685285590614" duration="1853000" />
+      <workItem from="1685289120748" duration="7437000" />
+      <workItem from="1685368904028" duration="9901000" />
+      <workItem from="1685454168052" duration="6025000" />
+      <workItem from="1685468265390" duration="17501000" />
+      <workItem from="1685543954773" duration="4041000" />
+      <workItem from="1685562245722" duration="145000" />
+      <workItem from="1685562485099" duration="82000" />
+      <workItem from="1685562822664" duration="18000" />
+      <workItem from="1685563108296" duration="1400000" />
+    </task>
+    <task id="LOCAL-00001" summary="v8">
+      <created>1685227629771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685227629771</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v8.2">
+      <created>1685231968998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685231968998</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v8.3">
+      <created>1685266827254</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685266827254</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v8.3">
+      <created>1685270546061</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685270546061</updated>
+    </task>
+    <task id="LOCAL-00005" summary="v8.3">
+      <created>1685273273104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685273273104</updated>
+    </task>
+    <task id="LOCAL-00006" summary="v9">
+      <created>1685284238694</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685284238694</updated>
+    </task>
+    <task id="LOCAL-00007" summary="v10">
+      <created>1685311623008</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685311623009</updated>
+    </task>
+    <task id="LOCAL-00008" summary="v10.4">
+      <created>1685404598776</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685404598776</updated>
+    </task>
+    <task id="LOCAL-00009" summary="v10.5">
+      <created>1685460548933</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685460548933</updated>
+    </task>
+    <task id="LOCAL-00010" summary="v11">
+      <created>1685485466475</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685485466475</updated>
+    </task>
+    <task id="LOCAL-00011" summary="v12">
+      <created>1685497556250</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685497556250</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v8" />
+    <MESSAGE value="v8.2" />
+    <MESSAGE value="v8.3" />
+    <MESSAGE value="v9" />
+    <MESSAGE value="v10" />
+    <MESSAGE value="v10.4" />
+    <MESSAGE value="v10.5" />
+    <MESSAGE value="v11" />
+    <MESSAGE value="v12" />
+    <option name="LAST_COMMIT_MESSAGE" value="v12" />
+  </component>
+</project>
