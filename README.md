@@ -1,2 +1,2 @@
-# pharmacy-medicine-expiration-date-management
-web app that monitors the medicine expiration date of the medicine administered to different patients through a xip
+#farmaceutica
+set de un xip que se encarga de avisar del estado del medicamento
